@@ -3,6 +3,7 @@
 library(reshape2)
 
 ## set working directory
+### please set own working directory that contains the UCI HAR dataset to properly run code
 setwd("/R/Coursera UVF/Coursera projects/Week 3/week 4")
 
 
